@@ -1,0 +1,36 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenGLTutorial01.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\main.cpp(278): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\main.cpp(483): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\main.cpp(484): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\main.cpp(488): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\main.cpp(489): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\main.cpp(490): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\main.cpp(491): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\main.cpp(498): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  cSkybox.cpp
+  cSkinnedMesh.cpp
+  cSkinnedGameObject.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\cskinnedgameobject.cpp(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  cShaderProgram.cpp
+  cShader.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\cshader.cpp(40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\cshader.cpp(55): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  cScreenQuad.cpp
+  cPlaneObject.cpp
+  cModel.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\cmodel.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\cmodel.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\cmodel.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\cmodel.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\cmodel.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\cmodel.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  cMesh.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\cmesh.cpp(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\graphics 2\project 1\opengltutorial01\cmesh.cpp(44): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  cFrameBuffer.cpp
+  cCamera.cpp
+  cAnimationState.cpp
+  Generating Code...
+  glad.c
+  OpenGLTutorial01.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Graphics 2\Project 1\x64\Debug\Project 1.exe
